@@ -1,3 +1,5 @@
+* Zainstaluj node_modules
+
 1. Usuwanie powtarzających się rekordów z plików CSV
 
     Program w języku JavaScript, który porównuje dwa pliki CSV i usuwa powtarzające się rekordy na podstawie wybranej kolumny.
